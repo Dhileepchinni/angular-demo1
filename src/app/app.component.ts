@@ -9,9 +9,7 @@ import { Router } from '@angular/router';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  constructor(router: Router){
-      router.navigate(['/home']);
-  }
+  
 }
   /* num:number=0;
 w:number=50;
