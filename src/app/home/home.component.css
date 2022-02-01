@@ -5,6 +5,11 @@
     .adjust{
         margin-top:100px;
     }
-    .text-color{
-        color:#0505c5;
+    .card-text{
+        
+        font-weight:bold;
     }
+    .text-setter{
+        color: #0d0b6e !important;
+    }
+  

@@ -5,6 +5,9 @@
   .adjust{
     margin-top:90px;
   }
+  .btn-color{
+    background-color:#0033A0;
+  }
   
   /* card group aka PRIMARY */
   .card-group .card-primary:hover {
@@ -13,6 +16,7 @@
     z-index: 100;
   
   }
+  btn
   .margin{
       margin-left: 150px;
   }
@@ -205,7 +209,7 @@
     width: 48px;
     height: 48px;
     padding: 0;
-    background: #fff url('https://web-static.ff.int.avast.com/static3.avast.com/1/web/i/v2/components/plus-s-plum.png') no-repeat 50% 50%;
+    background: #0033A0 url('https://web-static.ff.int.avast.com/static3.avast.com/1/web/i/v2/components/plus-s-plum.png') no-repeat 50% 50%;
     box-shadow: 0 12px 15px -4px rgba(12, 5, 62, 0.12);
     border: solid 1.2px #d4d2e6;
     border-radius: 24px;

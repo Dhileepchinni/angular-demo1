@@ -1,3 +1,22 @@
 .adjust{
-    margin-top:50px;
+    margin-top:10px;
   }
+  .sider{
+    margin-top:80px;
+   
+  }
+ 
+  #design3 h1 {
+    height:100px;
+    background-color: #e7e6ee;
+    text-align: center;
+    
+    font-weight: 20;
+    padding: 25px;
+    border-bottom: 5px #0033A0 solid;
+    font-family: Helvetica, sans-serif;
+  }
+ .bg-color{
+  background-color: #bab7c9;
+ }
+  
